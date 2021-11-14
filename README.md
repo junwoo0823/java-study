@@ -1,4 +1,4 @@
-## Java Study
+# Java Study
 - This is the result of studying Java
 
 ## Review
